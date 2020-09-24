@@ -3,7 +3,7 @@
 **Elucidation for the following project:**
 You are required to make a python program which will serve the purpose to download Photos and Videos from Instagram. 
  
-Tech Stack to be used: Python 
+**Tech Stack to be used:** Python 
 
 - The file should be named as: python instagram_downloader.py and It will be automatically replicated in this repo with hello world code.
 
